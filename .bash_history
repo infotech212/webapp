@@ -171,3 +171,48 @@ git status
 touch info.dev
 git status 
 vi .gitignore
+ls
+git status
+vi .gitignore
+git status
+cat .gitignore
+git status 
+vi .gitignore
+git status 
+git commit -a -m "info_developers ignored"
+git remote -v
+git log 
+git status 
+ git add .
+git status
+vi .gitignore 
+vi .gitignore
+git status
+ls
+ls ~
+ ls /home
+git commit -a -m "infomessage ignored"
+git log 
+vi deploy.sh
+ls
+git status
+git checkout stage
+git checkout branch stage
+git branch 
+git checkout stage 
+git checkout stage
+git commit -a -m "commiting to the development branch"
+git status
+git status 
+git add .
+git status 
+git log
+!
+git commit "another test commit to stage"
+git commit -m "another test commit to stage"
+git status 
+vi deploy.sh
+git sttaus 
+git status
+ git log
+git commit -a -m "Tried and tested by the client"
