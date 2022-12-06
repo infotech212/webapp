@@ -1,0 +1,25 @@
+
+
+
+
+
+        
+        
+
+        
+
+#files i am trying to ignore
+
+        .bash_history
+        .bash_logout
+        .bash_profile
+        .bashrc
+        .gitignore
+        .lesshst
+        .ssh/
+        .viminfo
+        Ifeanyi
+        Website.php
+        info.dev
+
+
